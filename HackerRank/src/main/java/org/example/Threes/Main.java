@@ -1,7 +1,4 @@
-package org.example;
-
-import org.example.Threes.LevelOrderTransversal;
-
+package org.example.Threes;
 import java.util.Scanner;
 
 import static org.example.Threes.LevelOrderTransversal.Solution.insert;
